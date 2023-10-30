@@ -9,7 +9,7 @@ The repository contains three files:
 * **nlp_book_rec.py:** This file contains the code for the book recommendation system. The system uses the Word2Vec model to find books that are similar to the user's query. It then ranks the similar books based on their similarity to the user's query and their rating on Amazon. Finally, it returns the top ranked books to the user as recommendations.
 
 ## Article explaining how the project works
-I have written an article where I explain how the book recommendation system works in more detail. You can read the article here: [Link to article]
+I have written an article where I explain how the book recommendation system works in more detail. You can read the article [here](https://medium.com/@thedataisaac/booklens-a-python-program-that-connects-you-to-books-of-your-interest-f1031a2a4d76)
 
 ## Feedback and suggestions
 If you have any feedback or suggestions, please feel free to leave a comment on the GitHub repository or contact me directly.
